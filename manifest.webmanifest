@@ -1,0 +1,1 @@
+{"name":"棚卸しカウンター","short_name":"棚卸カウンター","description":"3種類から最大10種類まで独立して数える棚卸し用カウンター","start_url":"./","scope":"./","display":"standalone","background_color":"#f4f7fb","theme_color":"#172b4d","icons":[{"src":"icon.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}]}
